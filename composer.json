@@ -1,0 +1,15 @@
+{
+    "name": "diorahman/tunai",
+    "description": "Tunai SDK",
+    "require": {
+        "dflydev/hawk": "*",
+        "guzzlehttp/guzzle": "3.8.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dhi Aurrahman",
+            "email": "diorahman@rockybars.com"
+        }
+    ]
+}
